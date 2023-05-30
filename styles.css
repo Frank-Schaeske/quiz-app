@@ -61,3 +61,9 @@ button {
 .current-button {
   background-color: darkgray;
 }
+
+.profile {
+  margin: 150px 10%;
+  padding: 3% 10%;
+  scroll-margin-top: 100px;
+}
