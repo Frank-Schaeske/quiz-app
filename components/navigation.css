@@ -1,0 +1,25 @@
+nav {
+  height: 80px;
+  background: lightblue;
+  color: darkblue;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.current-logo {
+  height: 50px;
+  padding: 13px;
+  margin: 0;
+  background-color: lightgray;
+}
+
+.logo {
+  height: 50px;
+  padding: 13px;
+  margin: 0;
+}
